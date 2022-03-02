@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(187, 255, 0);
+    color: crimson;
+}
+.heading{
+    width: 80%;
+    font-size: 25px;
+    
+}
+.object_hame{
+    color:rgb(0, 132, 255) ;
+}
+#camera,#result{
+    border: 2px solid rgb(132, 0, 255);
+    width: 350px;
+    height: 300px;
+}
+#object_name,#accuracy{
+    color: rgb(12, 47, 78);
+    font-size: 20px;
+}
